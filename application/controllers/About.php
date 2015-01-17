@@ -51,5 +51,5 @@ class About extends Application {
 	}
 }
 
-/* End of file welcome.php */
-/* Location: ./application/controllers/Welcome.php */
+/* End of file About.php */
+/* Location: ./application/controllers/About.php */
